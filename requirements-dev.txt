@@ -1,0 +1,12 @@
+-r requirements.txt
+black
+isort
+flake8
+mypy
+pre-commit
+pytest
+pytest-cov
+pytest-pythonpath
+factory-boy
+freezegun
+types-freezegun

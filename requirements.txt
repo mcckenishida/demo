@@ -1,0 +1,9 @@
+alembic
+sqlalchemy-utils
+psycopg2-binary
+fastapi
+fastapi-azure-auth
+pydantic[dotenv]
+requests
+python-multipart
+python-dateutil
