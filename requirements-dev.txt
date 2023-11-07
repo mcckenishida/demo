@@ -6,7 +6,7 @@ mypy==0.920
 pre-commit==2.20.0
 pytest==6.2.5
 pytest-cov==3.0.0
-pytest-pythonpath==0.7.3
+pytest-pythonpath==0.7.4
 factory-boy==3.2.1
 freezegun==1.1.0
 types-freezegun==1.1.3
