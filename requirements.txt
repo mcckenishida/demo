@@ -5,5 +5,5 @@ fastapi==0.70.1
 fastapi-azure-auth==3.1.0
 pydantic[dotenv]==1.8.2
 requests==2.26.0
-python-multipart==0.0.5
+python-multipart==0.0.9
 python-dateutil==2.8.2
